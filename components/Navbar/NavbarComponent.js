@@ -42,7 +42,7 @@ export default function NavbarComponent() {
         <Navbar.Container align="end">
           <Navbar.Container>
             <Navbar.Item>
-              <a href="https://github.com/rubengvillar" className="navbar-item" target="_blank">
+              <a href="https://github.com/rubengvillar" className="navbar-item" target="_blank" rel="noreferrer">
                 <Icon path={mdiGithub}
                   title="Github"
                   size={1}
